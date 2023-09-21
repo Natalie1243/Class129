@@ -1,0 +1,68 @@
+body {
+    background-image: 
+    url('background.jpg');
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
+
+.note
+{
+    color: black;
+    font-size: 20px;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.disc_speed_img
+{
+    border-radius: 100%;
+    width: 250px;
+}
+
+#speed
+{
+    margin: 23px;
+    font-size: 20px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.disc_volume_img
+{
+    border-radius: 100%;
+    width: 250px;
+}
+
+#volume
+{
+    margin: 23px;
+    font-size: 20px;
+}
+
+.play_button
+{
+    font-size: 25px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(23, 23, 224);
+}
+
+.stop_button
+{
+    font-size: 25px;
+}
